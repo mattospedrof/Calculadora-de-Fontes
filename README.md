@@ -22,7 +22,7 @@ Uma ferramenta desktop para calcular e visualizar métricas de tamanhos de fonte
 
 ## 📸 Screenshot
 
-> _Adicione aqui um screenshot da aplicação rodando._
+> _![alt text](media/home.png)._
 
 ---
 
@@ -49,7 +49,7 @@ pip install customtkinter
 ## 🚀 Como usar
 
 ```bash
-git clone https://github.com/mattospedrof/calculadora-de-fontes.git
+git clone https://github.com/mattospedrof/Calculadora-de-Fontes.git
 cd calculadora-de-fontes
 pip install customtkinter
 python main.py
@@ -103,6 +103,8 @@ label.place(relx=0.5, anchor="center")
 
 ```
 calculadora-de-fontes/
+└── media
+    └── home.png
 └── main.py
 └── README.md
 └── LICENSE
